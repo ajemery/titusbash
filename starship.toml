@@ -7,7 +7,7 @@ $directory\
 [](fg:#434C5E bg:#4C566A)\
 $git_branch\
 $git_status\
-[](fg:#4C566A bg:#86BBD8)\
+[](fg:#4C566A bg:#ff7979)\
 $c\
 $elixir\
 $elm\
@@ -18,11 +18,11 @@ $julia\
 $nodejs\
 $nim\
 $rust\
-[](fg:#86BBD8 bg:#06969A)\
+[](fg:#ff7979 bg:#ff5353)\
 $docker_context\
-[](fg:#06969A bg:#33658A)\
+[](fg:#ff5353 bg:#c10000)\
 $time\
-[ ](fg:#33658A)\
+[ ](fg:#c10000)\
 """
 command_timeout = 5000
 # Disable the blank line at the start of the prompt
