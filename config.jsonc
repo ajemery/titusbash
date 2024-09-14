@@ -4,12 +4,12 @@
         "type": "builtin",
         "color": {
             "1": "white",
-            "2": "cyan"
+            "2": "red"
         }
     },
     "display": {
         "separator": "   ",
-        "color": "cyan"
+        "color": "red"
     },
     "modules": [
         {
